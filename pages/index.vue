@@ -10,14 +10,14 @@
       <div class="col-span-6 md:col-span-4">
         <h3 class="font-bold text-lg text-black">Wer bin ich ?</h3>
         <p class="text-sm text-black">
-          Ich bin Jonathan, 31 Jahr alt und beruflich seit 2016 Web Entwickler.
+          Ich bin Jonathan, 31 Jahr alt und seit 2012 Web Entwickler.
         </p>
         <p class="text-sm text-black">
           Hauptsächlich habe ich meine Erfahrung seit 2016 im Ecommerce gemacht bei der <br> Firma
           <a href="https://www.flagbit.de/?ref=jmartz" class="text-[#1f6fed] no-underline" target="_blank">
             Flagbit GmbH Co. KG</a>
         </p>
-        <p class="text-sm text-black">Hauptberuflich entwickeln ich aktuell an <br> der <a
+        <p class="text-sm text-black">Hauptberuflich entwickele ich aktuell an <br> der <a
             class="text-[#1f6fed] no-underline" href="https://autohaussoftware-genesys.de/?ref=jmartz" target="_blank">
             Software GeNeSys
           </a> mit.</p>
