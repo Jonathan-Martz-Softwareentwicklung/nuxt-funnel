@@ -118,7 +118,7 @@ const send = async () => {
   });
 
   if(response.id){
-    router.push('/done=success');
+    router.push('/?done=success');
   }
 }
 </script>
