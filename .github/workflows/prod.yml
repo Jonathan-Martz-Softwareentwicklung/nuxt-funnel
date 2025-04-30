@@ -22,6 +22,6 @@ jobs:
         script: |
           cd /var/www/funnel
           git pull
-          npm i
-          npm run build
-          pm2 restart ecosystem.config.cjs
+          bun install
+          bun run build
+          bun x pm2 restart ecosystem.config.cjs
